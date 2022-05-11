@@ -32,7 +32,7 @@
 
 @media(max-width: 600px) {
     /* Stack Grid Items */
-
+    
     #showcase .showcase-container,
     #home-articles .articles-container,
     #main-footer .footer-container {

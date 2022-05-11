@@ -201,6 +201,8 @@ h1, h2, h3, h4, h5, h6 {
     position: sticky;
     top: 0;
     z-index: 2;
+    width: 100%;
+    box-shadow: 0 2px  var(--primary-color)
 }
 
 #main-nav .container {
@@ -268,7 +270,8 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: 50vh;
+    overflow: auto;
 }
 
 #showcase .showcase-content {
