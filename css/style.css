@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 70vh;
 }
 
 #showcase .showcase-content {
